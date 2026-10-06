@@ -1,31 +1,41 @@
-# Donna · 从健康场景出发，做可以验证的产品与研究
+# Xiaozhen Li (Donna) · Strategy, AI & Product Exploration
 
-我围绕健康管理、医疗健康 AI 和交互体验推进个人项目：定义问题，做出原型，用证据判断下一步。
+I work at the intersection of **enterprise strategy, healthcare AI and product innovation**, with quantitative training in Management Science (Operational Research) at LSE and Mathematics & Economics at Warwick.
 
-**Health products · AI evaluation · Evidence-based research · Interactive prototypes**
+This portfolio brings together personal projects in which I turn a question into a prototype or a research method, make explicit design choices, and look for evidence before deciding what to build next.
 
-## 项目导航
+**Strategy → problem framing → prototype → validation**
 
-| 方向 | 项目 | 可以看到的成果 | 当前阶段 |
+## Start here
+
+| Project | Question explored | My contribution | Evidence & stage |
 | --- | --- | --- | --- |
-| 产品与工程 | [Bloom](https://github.com/Donna-li2611/bloom-daily-habit-tracker) | PWA 到原生应用的设计取舍、业务规则、自动化测试 | iPhone / TestFlight 发布迭代中 |
-| 评测与实验 | [健康问答评测](https://github.com/Donna-li2611/health-llm-evaluation) | 试运行题集、评分规则、实验记录、数据校验工具 | 方法与工具准备；尚无公开模型排名 |
-| 行业与商业研究 | [医疗健康 AI 研究](https://github.com/Donna-li2611/healthcare-ai-research) | 两篇有来源的公司案例、比较框架、研究模板 | 公开研究案例首版 |
-| 创意与交互 | [五行灵契](https://github.com/Donna-li2611/wuxing-spirit) | 养成循环、轻量 AR 原型源码片段、体验验证计划 | 原型探索；尚未完成系统用户测试 |
+| [Bloom · Habit & Life Tracker](https://github.com/Donna-li2611/bloom-daily-habit-tracker) | How can daily recording remain useful without becoming burdensome? | Product definition, interaction choices, requirements and acceptance criteria | [Product case](https://github.com/Donna-li2611/bloom-daily-habit-tracker/blob/main/docs/product-case.md), public business-rule code and tests. Full iOS release status requires separate confirmation. |
+| [Health LLM Evaluation](https://github.com/Donna-li2611/health-llm-evaluation) | How can health answers be compared under traceable, controlled conditions? | Question framing, evaluation-method design and review of evidence requirements | Protocol, rubric, 20 pilot questions and a data validator. Preparation stage; no formal model comparison published. |
+| [Healthcare AI Research](https://github.com/Donna-li2611/healthcare-ai-research) | Where does AI create value within a health platform's existing business? | Research framing, comparison criteria and interpretation of public evidence | Two sourced company cases, a comparison and reusable templates. Period-specific research samples. |
+| [Wuxing Spirit · 五行灵契](https://github.com/Donna-li2611/wuxing-spirit) | Can an everyday care loop create a sense of companionship? | Experience concept, game-loop design and prototype review | Product decisions, code excerpts and a validation plan. Exploratory prototype; systematic user testing pending. |
 
-## 我的工作方式
+The earlier [Bloom Web/PWA prototype](https://github.com/Donna-li2611/bloom-pwa-test) is retained as a separate interaction experiment. Start with the curated Bloom portfolio above for the product story and verification record.
 
-1. 先明确一个具体用户问题，再决定是否需要 AI。
-2. 通过可体验的原型识别交互问题，再进入更重的工程实现。
-3. 将事实、解释和待验证假设分开记录。
-4. 用测试、实验条件和失败案例说明结果的适用边界。
+## How I work
 
-我使用 AI 辅助研究、编码与材料整理。项目中的需求取舍、设计约束和验收标准另有记录；代码量不用于代表独立手写工作量。每个仓库区分已实现、已验证与计划中的能力。
+- **Frame the decision:** identify the user problem, relevant constraints and what evidence would change the direction.
+- **Make trade-offs explicit:** translate ideas into interaction rules, scope and acceptance criteria.
+- **Use AI in the workflow:** explore alternatives, build prototypes and review outputs; take responsibility for the choices and interpretation.
+- **Separate evidence from ambition:** distinguish implemented functions, recorded checks and future plans.
 
-## 从哪里开始
+Implementation is AI-assisted. My contribution is documented through problem definitions, product choices, review and validation criteria; repository size is not a measure of independently hand-written code.
 
-- 想看产品如何落地：从 Bloom 的产品案例和测试开始。
-- 想看研究是否可复核：从健康问答评测的实验协议和行业研究的证据表开始。
-- 想看交互探索：从五行灵契的玩法循环与原型边界开始。
+[Reviewer guide / 项目阅读路线](docs/portfolio-map.md)
 
-本页状态更新于 **2026-09-14**。公开仓库按主题组织；个人工作日志与内部工作材料不在作品集中。
+---
+
+## 中文简介
+
+我是李晓真（Donna），有企业战略、数字化与AI创新实践背景，以及LSE运筹学、华威大学数学与经济学训练。我关注如何把战略判断转化为可验证的产品和研究，也探索健康场景、交互体验与人的日常生活之间的关系。
+
+这份个人作品集侧重四项能力：**定义问题、作出取舍、推进原型、用证据判断下一步**。各项目明确说明我的贡献、已有成果与待验证部分。
+
+建议先看 **Bloom** 的产品取舍与验证记录，再看 **健康问答评测** 的研究方法、**医疗健康AI研究** 的证据与比较框架；对创意交互感兴趣，可进一步看 **五行灵契**。
+
+本页整理于 **2026-10-06**。项目阶段依据现有公开记录呈现，具体结果日期见各仓库。这里展示个人项目；内部工作材料和个人工作日志不属于公开作品集。
