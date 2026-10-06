@@ -1,10 +1,10 @@
-# Xiaozhen Li (Donna) · Strategy, AI & Product Exploration
+# Xiaozhen Li (Donna) · Personal Projects & Exploration
 
-I work at the intersection of **enterprise strategy, healthcare AI and product innovation**, with quantitative training in Management Science (Operational Research) at LSE and Mathematics & Economics at Warwick.
+My professional background spans enterprise strategy, digital transformation and AI innovation, with quantitative training in Management Science (Operational Research) at LSE and Mathematics & Economics at Warwick. This portfolio focuses on my **personal interests and independent practice** in products, AI, research and creative interaction.
 
-This portfolio brings together personal projects in which I turn a question into a prototype or a research method, make explicit design choices, and look for evidence before deciding what to build next.
+**All projects featured here are self-directed personal projects that I initiate and develop myself.** I use AI tools for research, coding and prototyping, while making the product and research decisions and reviewing the outputs myself. Their themes reflect my own questions and interests and extend beyond my professional work.
 
-**Strategy → problem framing → prototype → validation**
+**Curiosity → problem framing → design & build → validation**
 
 ## Start here
 
@@ -24,7 +24,7 @@ The earlier [Bloom Web/PWA prototype](https://github.com/Donna-li2611/bloom-pwa-
 - **Use AI in the workflow:** explore alternatives, build prototypes and review outputs; take responsibility for the choices and interpretation.
 - **Separate evidence from ambition:** distinguish implemented functions, recorded checks and future plans.
 
-Implementation is AI-assisted. My contribution is documented through problem definitions, product choices, review and validation criteria; repository size is not a measure of independently hand-written code.
+I document my decisions, implementation and checks so that a visitor can understand both the project and how I developed it. AI-assisted development is part of my personal workflow; each repository records its current scope and evidence.
 
 [Reviewer guide / 项目阅读路线](docs/portfolio-map.md)
 
@@ -32,10 +32,12 @@ Implementation is AI-assisted. My contribution is documented through problem def
 
 ## 中文简介
 
-我是李晓真（Donna），有企业战略、数字化与AI创新实践背景，以及LSE运筹学、华威大学数学与经济学训练。我关注如何把战略判断转化为可验证的产品和研究，也探索健康场景、交互体验与人的日常生活之间的关系。
+我是李晓真（Donna），有企业战略、数字化与AI创新实践背景，以及LSE运筹学、华威大学数学与经济学训练。这里主要展示我的个人兴趣与自主实践：健康产品、AI研究方法、交互体验，以及创意与日常生活的连接。
+
+**这里展示的项目均由我个人独立开展，项目构思、设计、研究、制作与已有成果整理都由我本人完成，过程中使用AI工具辅助。** 项目主题来自我的兴趣与问题探索，范围不限于工作领域。
 
 这份个人作品集侧重四项能力：**定义问题、作出取舍、推进原型、用证据判断下一步**。各项目明确说明我的贡献、已有成果与待验证部分。
 
 建议先看 **Bloom** 的产品取舍与验证记录，再看 **健康问答评测** 的研究方法、**医疗健康AI研究** 的证据与比较框架；对创意交互感兴趣，可进一步看 **五行灵契**。
 
-本页整理于 **2026-10-06**。项目阶段依据现有公开记录呈现，具体结果日期见各仓库。这里展示个人项目；内部工作材料和个人工作日志不属于公开作品集。
+本页整理于 **2026-10-06**。项目阶段依据现有公开记录呈现，具体结果日期见各仓库。各仓库呈现个人实践的已有成果与后续探索方向。
